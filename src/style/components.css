@@ -1,0 +1,22 @@
+.navtitle{
+  font-size: 50px;
+  padding-left: 100px;
+  margin-right: 400px;
+}
+.nav1{
+  font-size: 30px;
+  margin-right: 100px;
+}
+.nav2{
+  font-size: 30px;
+}
+.about{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 70vh;
+}
+.aboutheading{
+  margin-top: 30px;
+  font-size: 30px;
+}
